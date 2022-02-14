@@ -1,0 +1,4 @@
+In python you can make lists using []
+In python you can make dictionaries using {}
+In python you can make tuples using ()
+In python you can combine those three to make more complex data storage
