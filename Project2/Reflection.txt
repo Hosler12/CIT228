@@ -1,0 +1,7 @@
+I liked the fact that I had the freedom to pick what kind of data I'd be messing with, along with choosing what I wanted to do with it. I did not like the presentation portion of it, because I use linux as my operating system, and as such cannot run powerpoint. 
+
+While I'm able to make a powerpoint without issue thanks to libreOffice Impress and google slides, I end up having to do some extra steps with exporting and importing the powerpoint to a computer that has powerpoint, assuming I can access one in time. I'd prefer making a forum post where I can type about my stuff, and paste the pictures as desired.
+
+The biggest problem I encountered was making the labels readable. I had to do two things to fix it. The first thing I did was make all of them verticle to reduce the space taken. The second thing I did was limit the amount of data that was being displayed, so that there were fewer labels cluttering up the space. I also found that if I make the label text white, I can keep all of the data without having things be unreadable, which I did on the bar charts.
+
+I don't believe I did anything noteworthy enough to be called done well, but I don't know what I would do differently to improve upon the project without some criticism being provided.
